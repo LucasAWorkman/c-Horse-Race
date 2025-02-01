@@ -2,7 +2,7 @@
 
 ## basic variables
 
-horses will be an array of 5 characters, 0-4
+horses will be an array of 5 integers where its all 0 to represent the starting value of 0
 lane will also be an array 15 characters long that are dots
 import random module
 
